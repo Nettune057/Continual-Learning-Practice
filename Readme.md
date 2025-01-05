@@ -4,14 +4,13 @@ This repository contains the code for the paper "Continual Learning Enhances for
 
 ## Requirements
 
-- Python 3.10
-- PyTorch 2.0
-- DGL 1.0
-- PyG 2.3
-- PyTorch Geometric 2.3
-- PyTorch Lightning 2.0
-- PyTorch Geometric Temporal 0.10
-- PyTorch Geometric Temporal 0.10
+- Python 
+- PyTorch 
+- DGL 
+- PyG 
+- PyTorch Geometric 
+- PyTorch Lightning 
+- PyTorch Geometric Temporal
 
 ## Notebooks
 
